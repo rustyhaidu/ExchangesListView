@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExchangeNoJson</string>
+    <string name="action_settings">Load Exchanges</string>
+</resources>
